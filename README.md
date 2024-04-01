@@ -9,6 +9,10 @@ cross-airdrop is cross platform airdrop implementation application, you can tran
 
 ## Buy me a coffee
 
+### Coffee
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lrcoffee)
+
 ### Wechat
 
 ![img_1](https://github.com/secoba/cross-airdrop/assets/25523634/b43deece-7fae-4892-b3ed-9cf66846d8eb)
@@ -17,7 +21,3 @@ cross-airdrop is cross platform airdrop implementation application, you can tran
 
 ![img_2](https://github.com/secoba/cross-airdrop/assets/25523634/38025007-41f8-4e3b-b1a8-5eff8b93cf98)
 
-
-### Coffee
-
-https://www.buymeacoffee.com/lrcoffee
